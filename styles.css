@@ -37,3 +37,7 @@ h2 {
 .matrix {
 	object-fit: fill;
 }
+
+#programmer {
+	margin: auto auto 30px auto;
+}
