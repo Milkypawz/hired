@@ -5,6 +5,8 @@ body {
 }
 
 .top-container {
+	display: flex;
+	flex-direction: column;
 	font-size: 156%;
 	margin: 0;
 	border: 0;
@@ -29,7 +31,5 @@ h2 {
 }
 
 .matrix {
-	object-fit: scale-down;
-	padding: 0;
-	margin: 0;
+	object-fit: fill;
 }
