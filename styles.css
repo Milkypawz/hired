@@ -1,0 +1,34 @@
+body {
+	margin: 0;
+	text-align: center;
+	background-color: #F5F5F5;
+}
+
+.top-container {
+	font-size: 156%;
+	margin: 0;
+	border: 0;
+	background-color: #406661;
+}
+
+h1 {
+	font-family: "Nothing You Could Do";
+	font-size: 50px;
+	margin-top: 0 auto;
+	color: #F5F5F5;
+}
+
+.pro {
+	color: #B9E937;
+}
+
+h2 {
+	font-family: "Nova Mono";
+	color: #F5F5F5;
+	font-size: 1.5rem;
+}
+
+.matrix {
+	padding: 0;
+	margin: 0;
+}
