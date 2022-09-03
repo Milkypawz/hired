@@ -25,9 +25,8 @@ h1 {
 }
 
 .programmer {
-	display: flex;
-	flex-direction: column;
 	margin: auto auto 20px auto;
+}
 
 h2 {
 	font-family: "Nova Mono";
