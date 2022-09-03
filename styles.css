@@ -24,11 +24,6 @@ h1 {
 	color: #B9E937;
 }
 
-.profile {
-	display: flex;
-	flex-direction: column;
-	margin: 1em auto auto auto
-
 h2 {
 	font-family: "Nova Mono";
 	color: #F5F5F5;
@@ -37,4 +32,8 @@ h2 {
 
 .matrix {
 	object-fit: fill;
+}
+
+.middle-container {
+	padding: 20px 0 0 0;
 }
