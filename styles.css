@@ -5,6 +5,13 @@ body {
 	color: #406661;
 }
 
+hr {
+	border: dotted #57D131 6px;
+	border-bottom: none;
+	width: 5%;
+	margin: 50px auto;
+}
+
 .top-container {
 	color: #F5F5F5;
 	display: flex;
@@ -42,13 +49,6 @@ h2 {
 
 h3 {
 	padding: auto auto 30px auto;
-}
-
-hr {
-	border: dotted #57D131 6px;
-	border-bottom: none;
-	width: 5%;
-	margin: 50px auto:
 }
 
 .matrix {
