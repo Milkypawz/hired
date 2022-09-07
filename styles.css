@@ -5,6 +5,10 @@ body {
 	color: #406661;
 }
 
+.front-end {
+	padding: 10px auto;
+}
+
 hr {
 	border: dotted #57D131 6px;
 	border-bottom: none;
