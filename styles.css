@@ -6,7 +6,7 @@ body {
 }
 
 .top-container {
-	color: #F5F5F5
+	color: #F5F5F5;
 	display: flex;
 	flex-direction: column;
 	font-size: 156%;
