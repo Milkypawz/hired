@@ -36,8 +36,19 @@ p {
 
 h2 {
 	font-family: "Nova Mono";
-	color: #F5F5F5;
+	color: #406661;
 	font-size: 1.5rem;
+}
+
+h3 {
+	padding: auto auto 30px auto;
+}
+
+hr {
+	border: dotted #57D131 6px;
+	border-bottom: none;
+	width: 5%;
+	margin: 50px auto:
 }
 
 .matrix {
