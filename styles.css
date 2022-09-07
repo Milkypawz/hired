@@ -33,6 +33,11 @@ h1 {
 	color: #B9E937;
 }
 
+.profile {
+	margin: auto;
+	width: 40%;
+}
+
 .programmer {
 	color: #F5F5F5;
 }
