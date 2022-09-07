@@ -2,9 +2,11 @@ body {
 	margin: 0;
 	text-align: center;
 	background-color: #F5F5F5;
+	color: #406661;
 }
 
 .top-container {
+	color: #F5F5F5
 	display: flex;
 	flex-direction: column;
 	font-size: 156%;
@@ -24,6 +26,14 @@ h1 {
 	color: #B9E937;
 }
 
+.programmer {
+	color: #F5F5F5;
+}
+
+p {
+	line-height: 2;
+}
+
 h2 {
 	font-family: "Nova Mono";
 	color: #F5F5F5;
@@ -37,7 +47,4 @@ h2 {
 .middle-container {
 	margin: 30px auto auto auto;
 }
-
-#programmer {
-	margin: auto auto 30px auto;
 }
