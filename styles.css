@@ -10,7 +10,7 @@ body {
 }
 
 .front-end: hover {
-	<a href="https://www.flaticon.com/free-icons/cloud-coding" title="cloud-coding icons">Cloud-coding icons created by Muhammad Ali - Flaticon</a>
+	link="https://www.flaticon.com/free-icons/cloud-coding"
 }
 
 hr {
@@ -47,7 +47,7 @@ h1 {
 }
 
 .programmer {
-	margin: 0 auto auto auto;
+	margin: 0 auto 50px auto;
 	color: #F5F5F5;
 }
 
