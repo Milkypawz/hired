@@ -87,3 +87,7 @@ h4:hover {
 	display: flex;
 	justify-content: center;
 }
+
+table {
+	margin: auto 18.75rem auto 18.75rem auto;
+}
