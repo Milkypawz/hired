@@ -64,6 +64,10 @@ p {
 	width: 40%;
 }
 
+.skill-row1 {
+	margin: auto auto 10px auto;
+}
+
 h2 {
 	font-family: "Nova Mono";
 	color: #406661;
