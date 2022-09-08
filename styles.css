@@ -6,6 +6,10 @@ body {
 	color: #406661;
 }
 
+.bottom-container {
+	margin: 40px auto;
+}
+
 .front-end {
 	margin: 20px auto;
 }
