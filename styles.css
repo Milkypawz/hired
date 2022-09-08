@@ -10,7 +10,7 @@ body {
 	margin: 20px auto;
 }
 
-	h4 {
+h4 {
 	color: #406661;
 }
 
@@ -91,4 +91,8 @@ table {
 
 .copyright {
 	margin: 0 auto 0 auto;
+}
+
+.footer-link {
+	text-decoration: none;
 }
