@@ -83,6 +83,10 @@ h4:hover {
 	margin: 30px auto auto auto;
 }
 
+.bottom-container {
+	padding: 1rem auto auto auto;
+}
+
 table {
 	display: flex;
 	justify-content: center;
