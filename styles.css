@@ -10,7 +10,7 @@ body {
 	margin: 20px auto;
 }
 
-.footer-link {
+h4 {
 	color: #406661;
 }
 
@@ -88,8 +88,5 @@ h4:hover {
 }
 
 .bottom-container {
-	display: flex;
 	text-align: center;
-	margin: auto;
-	width: 10%;
 }
