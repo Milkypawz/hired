@@ -47,8 +47,12 @@ h1 {
 }
 
 .programmer {
-	margin: 0 auto 65px auto;
+	margin: 10px auto 75px auto;
 	color: #F5F5F5;
+}
+
+.python {
+	margin: 20px auto;
 }
 
 p {
