@@ -10,6 +10,10 @@ body {
 	margin: 20px auto;
 }
 
+.footer-link {
+	color: #406661;
+}
+
 .footer-link: hover {
 	color: #57D131;
 }
