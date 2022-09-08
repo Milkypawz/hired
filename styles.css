@@ -10,7 +10,7 @@ body {
 	margin: 20px auto;
 }
 
-.footer-link:hover {
+.footer-link: hover {
 	color: #57D131;
 }
 
