@@ -91,5 +91,5 @@ h4:hover {
 .bottom-container {
 	display: flex;
 	flex-direction: wrap;
-	text-align: center;
+	margin: auto;
 }
