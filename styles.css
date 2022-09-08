@@ -94,6 +94,7 @@ table {
 }
 
 .btn {
+	size: 1rem;
 	margin: 2rem auto 0 auto;
 	text-decoration: none;
 }
