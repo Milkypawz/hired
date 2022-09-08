@@ -8,9 +8,10 @@ body {
 
 .bottom-container {
 	display: flex;
-	flex-direction: row;
+	flex-direction: wrap;
 	text-align: center;
 	margin: 40px auto 0 auto;
+	padding: auto auto 0 auto;
 }
 
 .front-end {
