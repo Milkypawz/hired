@@ -86,4 +86,9 @@ h4:hover {
 table {
 	display: flex;
 	justify-content: center;
+	align-items: center;
+}
+
+tbody {
+	align-self: flex-center;
 }
