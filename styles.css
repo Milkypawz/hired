@@ -6,14 +6,6 @@ body {
 	color: #406661;
 }
 
-.bottom-container {
-	display: flex;
-	flex-direction: wrap;
-	text-align: center;
-	margin: 40px auto 0 auto;
-	padding: auto auto 0 auto;
-}
-
 .front-end {
 	margin: 20px auto;
 }
@@ -90,4 +82,9 @@ h4:hover {
 .middle-container {
 	color: #406661;
 	margin: 30px auto auto auto;
+}
+
+.bottom-container {
+	text-align: center;
+	margin: 40px auto 0 auto;
 }
