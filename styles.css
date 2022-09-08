@@ -88,5 +88,7 @@ h4:hover {
 }
 
 .bottom-container {
+	display: flex;
+	flex-direction: row;
 	text-align: center;
 }
