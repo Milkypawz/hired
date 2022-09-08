@@ -10,10 +10,6 @@ body {
 	margin: 20px auto;
 }
 
-.front-end:hover {
-	background-image: url('https://www.flaticon.com/free-icons/software-developer')
-}
-
 	h4 {
 	color: #406661;
 }
@@ -89,5 +85,5 @@ h4:hover {
 
 .bottom-container {
 	display: flex;
-	align-self: flex-center;
+	justify-content: center;
 }
