@@ -97,17 +97,6 @@ table {
 	margin: 0 auto 0 auto;
 }
 
-.btn {
-	size: 2rem;
-	color: #406661;
-	margin: 2rem auto 0 auto;
-	text-decoration: none;
-}
-
-.btn:hover {
-	color: #57D131;
-}
-
 .footer-link {
 	text-decoration: none;
 }
