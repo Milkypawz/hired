@@ -89,7 +89,7 @@ h4:hover {
 }
 
 .bottom-container {
+	text-align: center;
 	display: flex;
 	flex-direction: row;
-	float: right;
 }
