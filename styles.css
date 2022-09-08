@@ -75,7 +75,7 @@ h4:hover {
 }
 
 .btn {
-	width: 20%;
+	object-fit: contain;
 }
 
 .matrix {
