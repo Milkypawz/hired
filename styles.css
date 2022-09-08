@@ -84,6 +84,5 @@ h4:hover {
 }
 
 table {
-	margin: auto;
-	justify-content: center;
+	margin: auto 200px;
 }
