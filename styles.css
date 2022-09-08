@@ -87,5 +87,6 @@ h4:hover {
 .bottom-container {
 	display: flex;
 	text-align: center;
-	margin: 40px auto 0 auto;
+	margin: auto;
+	width: 10%;
 }
