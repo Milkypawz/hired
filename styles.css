@@ -14,7 +14,7 @@ body {
 	margin: 20px auto;
 }
 
-h4 {
+h5 {
 	color: #406661;
 }
 
@@ -71,10 +71,15 @@ h2 {
 }
 
 h3 {
+	font-family: "Nova Mono";
+	color: #406661;
+}
+
+h5 {
 	padding: auto auto 30px auto;
 }
 
-h4:hover {
+h5:hover {
 	color: #57D131;
 }
 
