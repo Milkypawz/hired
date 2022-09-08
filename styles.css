@@ -15,6 +15,7 @@ h4 {
 }
 
 h5 {
+	text-decoration: none;
 	color: #406661;
 }
 
@@ -103,10 +104,6 @@ table {
 
 .copyright {
 	margin: 0 auto 0 auto;
-}
-
-.btn {
-	text-decoration: none;
 }
 
 .footer-link {
