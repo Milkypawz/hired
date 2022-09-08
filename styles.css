@@ -8,9 +8,14 @@ body {
 
 .front-end {
 	margin: 20px auto;
+	background: transparent url('front-end.png') center top no-repeat;
 }
 
-h4 {
+.front-end:hover {
+	background-image: url('https://www.flaticon.com/free-icons/software-developer')
+}
+
+	h4 {
 	color: #406661;
 }
 
@@ -74,10 +79,6 @@ h4:hover {
 	color: #57D131;
 }
 
-.btn {
-	object-fit: contain;
-}
-
 .matrix {
 	object-fit: fill;
 }
@@ -89,6 +90,6 @@ h4:hover {
 
 .bottom-container {
 	display: flex;
-	flex-direction: row;
+	flex-direction: wrap;
 	text-align: center;
 }
