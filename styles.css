@@ -10,6 +10,11 @@ body {
 	margin: 20px auto;
 }
 
+.footer-link:hover {
+	color: #57D131;
+}
+
+
 hr {
 	border: dotted #57D131 6px;
 	border-bottom: none;
