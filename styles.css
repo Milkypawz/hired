@@ -14,11 +14,6 @@ body {
 	color: #406661;
 }
 
-.footer-link: hover {
-	color: #57D131;
-}
-
-
 hr {
 	border: dotted #57D131 6px;
 	border-bottom: none;
@@ -77,6 +72,10 @@ h3 {
 
 h4:hover {
 	color: #57D131;
+}
+
+.btn {
+	width: 20%;
 }
 
 .matrix {
