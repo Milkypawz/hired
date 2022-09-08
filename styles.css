@@ -6,6 +6,10 @@ body {
 	color: #406661;
 }
 
+.btn {
+	text-decoration: none;
+}
+
 .front-end {
 	margin: 20px auto;
 }
