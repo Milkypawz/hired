@@ -9,7 +9,7 @@ body {
 .bottom-container {
 	display: flex;
 	flex-direction: row;
-	margin: 40px auto;
+	margin: 40px auto 0 auto;
 }
 
 .front-end {
