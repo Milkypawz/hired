@@ -93,6 +93,10 @@ table {
 	margin: 0 auto 0 auto;
 }
 
+.contact-me {
+	text-decoration: none;
+}
+
 .footer-link {
 	text-decoration: none;
 }
