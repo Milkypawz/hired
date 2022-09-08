@@ -94,7 +94,10 @@ table {
 }
 
 .btn {
-	margin: 2rem auto 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 2rem auto auto auto;
 	text-decoration: none;
 }
 
