@@ -88,3 +88,7 @@ table {
 	justify-content: center;
 	align-items: center;
 }
+
+.copyright {
+	margin: 0 auto 0 auto;
+}
