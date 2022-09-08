@@ -90,6 +90,6 @@ h4:hover {
 
 .bottom-container {
 	display: flex;
-	flex-direction: wrap;
-	margin: auto;
+	flex-direction: row;
+	float: right;
 }
