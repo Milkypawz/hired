@@ -94,6 +94,8 @@ table {
 }
 
 .contact-me {
+	margin: 0 auto;
+	padding: 0 auto;
 	text-decoration: none;
 }
 
