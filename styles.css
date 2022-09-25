@@ -89,7 +89,12 @@ h5:hover {
 
 .middle-container {
 	color: #406661;
-	margin: 30px auto auto auto;
+	margin: 2rem auto auto auto;
+}
+
+.cooking {
+	margin: 40px auto;
+	padding: 20px auto;
 }
 
 .bottom-container {
